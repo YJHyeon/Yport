@@ -4,4 +4,5 @@ https://velog.io/@blair-lee/VSCode%EC%97%90%EC%84%9C-Github-%EC%97%85%EB%A1%9C%E
 git config --global user.name "이름"
 git config --global user.email "이메일@gmail.com"
 + push
+git commit -m 'test1'
 git push origin master
